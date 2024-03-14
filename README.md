@@ -16,4 +16,4 @@ I am currently a PhD student in Economics at the University of Town primarily fo
 ## Contact
 - Email: [abdiazizahmedy@gmail.com](mailto:abdiazizahmedy@gmail.com)
 - Twitter: [@Abdiaziz016](https://twitter.com/@Abdiaziz016)
-- LinkedIn: [Abdiaziz Ahmed](https://www.linkedin.com/in/yourname/)
+- LinkedIn: [Abdiaziz Ahmed](https://www.linkedin.com/in/AbdiazizAhmed/)
