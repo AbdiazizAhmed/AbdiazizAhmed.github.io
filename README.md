@@ -1,4 +1,3 @@
-# Welcome to My Academic Website!
 
 ## About Me
 I am currently a PhD student in Economics at the University of Town primarily focused on environmental economics,trade, digitalisation, labor economics, and economic growth. I’m currently a Research Fellow at Research ICT Africa(RIA) and an adjunct lecturer at the Department of Economics and Development Studies(DEDS) of the University of Nairobi teaching introduction to macroeconomics and economic statistics I.
